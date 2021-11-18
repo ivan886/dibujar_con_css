@@ -1,0 +1,15 @@
+.cielo{
+    background-color: darkturquoise;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.sol{
+     height: 200px;
+     width: 200px;
+     border-radius: 50%;
+     background-color: gold;
+}
